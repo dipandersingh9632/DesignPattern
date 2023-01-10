@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" filepath="$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" filepath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopyConstructor/CopyConstructor.iml" filepath="$PROJECT_DIR$/CopyConstructor/CopyConstructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecortorDesignPattern/DecortorDesignPattern.iml" filepath="$PROJECT_DIR$/DecortorDesignPattern/DecortorDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObservorDesignPattern/ObservorDesignPattern.iml" filepath="$PROJECT_DIR$/ObservorDesignPattern/ObservorDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParentChildConstructor/ParentChildConstructor.iml" filepath="$PROJECT_DIR$/ParentChildConstructor/ParentChildConstructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeRegistryDesignPattern/PrototypeRegistryDesignPattern.iml" filepath="$PROJECT_DIR$/PrototypeRegistryDesignPattern/PrototypeRegistryDesignPattern.iml" />
+    </modules>
+  </component>
+</project>

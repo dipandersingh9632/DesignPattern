@@ -1,6 +1,8 @@
+package withoutBuild;
+
 public class Main {
     public static void main(String[] args) throws Exception {
-        Builder b = new Builder();
+        Builder b = Student.getBuilder();
         b.setName("Depandre");
         b.setAge(25);
         b.setId(1598213);

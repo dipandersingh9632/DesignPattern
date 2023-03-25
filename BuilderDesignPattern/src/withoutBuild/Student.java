@@ -1,3 +1,5 @@
+package withoutBuild;
+
 public class Student {
     String name;
     int id;
@@ -22,9 +24,13 @@ public class Student {
         this.psp = builder.getPsp();
     }
 
+    public static Builder getBuilder(){
+        return new Builder();
+    }
+
 
     public void print() {
-        System.out.println("Student{" +
+        System.out.println("withoutBuild.Student{" +
                 "name='" + name + '\'' +
                 ", id=" + id +
                 ", age=" + age +

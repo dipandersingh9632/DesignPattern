@@ -1,7 +1,5 @@
 package withoutChildClasss;
 
-import withChildClass.IntelligentStudent;
-
 public class Main {
 
     public static  void fillRegistry(StudentRegistry studentRegistry){
